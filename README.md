@@ -1,3 +1,6 @@
+Ues :: loadstring(game:HttpGet("https://raw.githubusercontent.com/Barry51203/Standard-Roblox-Script-v-0.2.1/refs/heads/main/standard-v0.2.1.lua"))()
+
+
 Standard Script Roblox version 0.2.1 [Beta] By.carfty
 Overview
 This script provides a variety of features and tools designed to enhance your Roblox gaming experience. It includes settings for ESP (Extrasensory Perception), movement tweaks, utility tools, UI customization, and quick access to Discord and YouTube links.
